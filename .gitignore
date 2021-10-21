@@ -7,6 +7,9 @@
 # BlueJ files
 *.ctxt
 
+# spring #
+application.properties
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
